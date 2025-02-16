@@ -1,0 +1,316 @@
+{
+    "name": "China",
+    "value": 76471416045.08273,
+    "children": [
+        {
+            "name": "waste",
+            "value": 957686017.916967,
+            "children": [
+                {
+                    "name": "biological-treatment-of-solid-waste-and-biogenic",
+                    "value": 46867711.56053449
+                },
+                {
+                    "name": "domestic-wastewater-treatment-and-discharge",
+                    "value": 46867711.56053449
+                },
+                {
+                    "name": "incineration-and-open-burning-of-waste",
+                    "value": 46867711.56053449
+                },
+                {
+                    "name": "industrial-wastewater-treatment-and-discharge",
+                    "value": 46867711.56053449
+                },
+                {
+                    "name": "residential-onsite-fuel-usage",
+                    "value": 723347460.1142945
+                },
+                {
+                    "name": "solid-waste-disposal",
+                    "value": 46867711.56053449
+                }
+            ]
+        },
+        {
+            "name": "transportation",
+            "value": 7141192055.38471,
+            "children": [
+                {
+                    "name": "domestic-aviation",
+                    "value": 892649006.9230888
+                },
+                {
+                    "name": "domestic-shipping",
+                    "value": 892649006.9230888
+                },
+                {
+                    "name": "international-aviation",
+                    "value": 892649006.9230888
+                },
+                {
+                    "name": "international-shipping",
+                    "value": 892649006.9230888
+                },
+                {
+                    "name": "other-transport",
+                    "value": 892649006.9230888
+                },
+                {
+                    "name": "railways",
+                    "value": 892649006.9230888
+                },
+                {
+                    "name": "road-transportation",
+                    "value": 892649006.9230888
+                },
+                {
+                    "name": "road-transportation-road-segment",
+                    "value": 892649006.9230888
+                }
+            ]
+        },
+        {
+            "name": "fossil-fuel-operations",
+            "value": 6846584058.622309,
+            "children": [
+                {
+                    "name": "oil-and-gas-production",
+                    "value": 1711646014.6555772
+                },
+                {
+                    "name": "oil-and-gas-refining",
+                    "value": 1711646014.6555772
+                },
+                {
+                    "name": "oil-and-gas-transport",
+                    "value": 1711646014.6555772
+                },
+                {
+                    "name": "other-fossil-fuel-operations",
+                    "value": 1711646014.6555772
+                }
+            ]
+        },
+        {
+            "name": "agriculture",
+            "value": 5311332853.844399,
+            "children": [
+                {
+                    "name": "cropland-fires",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "crop-residues",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "enteric-fermentation-cattle-operation",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "enteric-fermentation-cattle-pasture",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "enteric-fermentation-other",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "manure-applied-to-soils",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "manure-left-on-pasture-cattle",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "manure-management-cattle-operation",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "manure-management-other",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "other-agricultural-soil-emissions",
+                    "value": 482848441.25858176
+                },
+                {
+                    "name": "rice-cultivation",
+                    "value": 482848441.25858176
+                }
+            ]
+        },
+        {
+            "name": "power",
+            "value": 10010801706.999998,
+            "children": [
+                {
+                    "name": "electricity-generation",
+                    "value": 5005400853.499999
+                },
+                {
+                    "name": "heat-plants",
+                    "value": 5005400853.499999
+                }
+            ]
+        },
+        {
+            "name": "forestry-and-land-use",
+            "value": 2725540472.7391753,
+            "children": [
+                {
+                    "name": "forest-land-clearing",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "forest-land-degradation",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "forest-land-fires",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "net-forest-land",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "net-shrubgrass",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "net-wetland",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "removals",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "shrubgrass-fires",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "soil-organic-carbon",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "water-reservoirs",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "wetland-fires",
+                    "value": 227128372.7282646
+                },
+                {
+                    "name": "wood-and-wood-products",
+                    "value": 227128372.7282646
+                }
+            ]
+        },
+        {
+            "name": "buildings",
+            "value": 734803799.6877,
+            "children": [
+                {
+                    "name": "non-residential-onsite-fuel-usage",
+                    "value": 734803799.6877
+                }
+            ]
+        },
+        {
+            "name": "manufacturing",
+            "value": 40986394680.80484,
+            "children": [
+                {
+                    "name": "aluminum",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "cement",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "chemicals",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "glass",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "iron-and-steel",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "other-chemicals",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "other-energy-use",
+                    "value": 3415532890.0670705
+                },
+                {
+                    "name": "other-manufacturing",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "other-metals",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "petrochemical-steam-cracking",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "pulp-and-paper",
+                    "value": 3415532890.06707
+                },
+                {
+                    "name": "textiles-leather-apparel",
+                    "value": 3415532890.06707
+                }
+            ]
+        },
+        {
+            "name": "mineral-extraction",
+            "value": 1757080399.0826392,
+            "children": [
+                {
+                    "name": "bauxite-mining",
+                    "value": 10346811.52759483
+                },
+                {
+                    "name": "coal-mining",
+                    "value": 1317029320.906464
+                },
+                {
+                    "name": "copper-mining",
+                    "value": 10346811.52759483
+                },
+                {
+                    "name": "iron-mining",
+                    "value": 10346811.52759483
+                },
+                {
+                    "name": "lime",
+                    "value": 377970209.0106061
+                },
+                {
+                    "name": "other-mining-quarrying",
+                    "value": 10346811.52759483
+                },
+                {
+                    "name": "rock-quarrying",
+                    "value": 10346811.52759483
+                },
+                {
+                    "name": "sand-quarrying",
+                    "value": 10346811.52759483
+                }
+            ]
+        }
+    ]
+}
